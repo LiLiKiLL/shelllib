@@ -5,6 +5,7 @@
 # 1.获取实时天气信息的接口:http://www.weather.com.cn/data/sk/{city_id}.html
 # 返回数据格式:{"weatherinfo":{"city":"西安","cityid":"101110101","temp":"20","WD":"西南风","WS":"1级","SD":"14%","WSE":"1","time":"17:00","isRadar":"1","Radar":"JC_RADAR_AZ9290_JB","njd":"暂无实况","qy":"970","rain":"0"}}
 # 2.获取全天天气信息的接口:http://www.weather.com.cn/data/cityinfo/{city_id}.html
+# 返回数据格式:{"weatherinfo":{"city":"银川","cityid":"101170101","temp1":"0℃","temp2":"15℃","weather":"多云转晴","img1":"n1.gif","img2":"d0.gif","ptime":"18:00"}}
 # 3.城市ID对应关系
 # 101010100=北京
 # 101020100=上海
